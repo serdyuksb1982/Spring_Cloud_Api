@@ -1,5 +1,4 @@
 # TestCloud
-https://github.com/serdyuksb1982?tab=repositories
 
 Spring boot and Spring Cloud API. Динамическая и синхронная архитектура на Spring Cloud. API включает RESTfull, микросервисы. 
 Создание Eureka Server на порту 8761 на базе Maven с помощью Spring Initializr, добавив в него зависимость Eureka Server. Для активации реализации Eureka Server добавил в него аннотацию @EnableEurekaServer.
